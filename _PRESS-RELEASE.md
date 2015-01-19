@@ -18,38 +18,47 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+
   ResTracker
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+
   Where is your resume at?
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+
   ResTracker is a job search aid that tracks where you have applied for work. With it you can keep track of where you applied, when you applied, who you contacted, when you followed up, how far in the application process you are, and will send you custom reminders to keep you on top of your game!
 
 ## Problem ##
   > Describe the problem your product solves.
+
   In todays economy, even a person with a Mechanical Engineering degree has a difficult time finding a job. They may put out somewhere between 50 - 100 resumes hoping to get a response from 1 - 3 companies. This can be difficult to keep track of, where and when you applied, and when to follow up. There are currently about 4 websites that can help you with this problem. Two of them are down and the remaining have clunky UI and cost money.
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+
   ResTracker keeps track of everything you need related to your job search and reminds you of imporant followups or interviews.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+
   ResTracker is a fantastic tool to help you get a job. Use it to keep track of everywhere you have applied and the status of those appointements. It will send you optional reminders to follow up with employers. Use it to get a better job faster.
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+
   Starting to track your applications is easy. Simply got to ResTracker.com and sign up. Within moments you will be able to enter in places you have applied and add as much or as little detail as you want.
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+
   "ResTracker is great! When I lost my job, I immediately signed up for a ResTracker account. Within a week, I had applied to more than a hundred places. Without ResTracker I wouln't have been able to keep track of them all. Three weeks later I had a new job because ResTracker emailed me a reminder to follow up with a potential new employer and it worked, I got the job! Thanks ResTracker!" - Suzie Q
 
   "After I lost my fortune I needed a new job. I had plenty of offers and thanks to ResTracker's Offer Comparison Tool, I was able to select the highest compensating job. It was able to calculate to total compensation from base pay, benefits, potential bonuses, and signing bonuses." - Jordan Belford
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  
   It's a competetive job market out there, stay ahead with ResTracker.
