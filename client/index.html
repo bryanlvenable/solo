@@ -1,11 +1,24 @@
 <!DOCTYPE html>
-<html>
+<html ng-app>
   <head>
+    <meta charset="utf-8" />
     <title>ResTracker</title>
-    <script>
-    </script>
+    <link rel="stylesheet" type="text/css" href="styles/style.css" />
   </head>
   <body>
+    <h1>ResTracker</h1>
+    <div>
+      <a href='#/welcome'>Home</a>
+      <a href='#/application'>Add an application</a>
+    </div>
+    <div class="show-me-the-money">
+      <div ng-view></div>
+    </div>
+    <script src="lib/angular/angular.js"></script>
+    <script src="lib/angular-route/angular-route.js"></script>
+    <script src="app/application/application.js"></script>
+    <script src="app/welcome/welcome.js"></script>
+    <script src="app/app.js"></script>
   </body>
 
 <html>
