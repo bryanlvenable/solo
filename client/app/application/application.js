@@ -1,1 +1,1 @@
-angular.module('resTracker.application', []);
+angular.module('restracker.application', []);

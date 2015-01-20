@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app>
+<html ng-app='restracker'>
   <head>
     <meta charset="utf-8" />
     <title>ResTracker</title>
@@ -8,12 +8,10 @@
   <body>
     <h1>ResTracker</h1>
     <div>
-      <a href='#/welcome'>Home</a>
-      <a href='#/application'>Add an application</a>
+      <a href='/welcome'>Home</a>
+      <a href='/application'>Add an application</a>
     </div>
-    <div class="show-me-the-money">
-      <div ng-view></div>
-    </div>
+    <div class="show-me-the-money" ng-view></div>
     <script src="lib/angular/angular.js"></script>
     <script src="lib/angular-route/angular-route.js"></script>
     <script src="app/application/application.js"></script>

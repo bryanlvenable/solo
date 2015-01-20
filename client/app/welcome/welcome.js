@@ -1,1 +1,1 @@
-angular.module('resTracker.welcome', []);
+angular.module('restracker.welcome', []);

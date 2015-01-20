@@ -1,17 +1,19 @@
-var module = angular.module('resTracker', [
+var module = angular.module('restracker', [
   'ngRoute',
-  'resTracker.application',
-  'resTracker.welcome'
+  'restracker.application',
+  'restracker.welcome'
   ]);
 module.config(['$routeProvider',
 function($routeProvider) {
   $routeProvider
   .when('/', {
-    templateUrl: 'app/welcome/welcome.html'
+    templateUrl: 'app/welcome/welcome.html',
+    controller: 'RouteController'
     // redirectTo: 'app/welcome/welcome.html'
   })
   .when('/application', {
-    templateUrl: 'app/application/application.html'
+    templateUrl: 'app/application/application.html',
+    controller: 'RouteController'
     // redirectTo: 'app/application/application.html'
 
   })
